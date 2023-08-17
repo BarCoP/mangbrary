@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+  --background-color: #d3b7a6;
+  --text-color: #493433;
+  --blue-color: #0515dc;
+  --light-blue-color: #7479ec;
+  --light-red-color: #86114d;
+  --light-orange-color: #ac4f52;
+
+  margin: 0px;
+  padding: 0px;
+}
