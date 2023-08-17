@@ -4,6 +4,16 @@
   width: 100vw;
 }
 
-.hello-text {
-  color: var(--text-color);
+.welcome-text,
+.befor-table-label {
+  display: flex;
+  justify-content: center;
+}
+
+.welcome-text {
+  font-size: xx-large;
+}
+
+.befor-table-label {
+  font-size: x-large;
 }
